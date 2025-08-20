@@ -1,8 +1,8 @@
-# 👋 Hi, I'm [Your Name] - Backend Developer & IoT Specialist
+# 👋 Hi, I'm Mohammad Mousazadeh - Backend Developer & IoT Specialist
 
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=radical&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/YOUR_USERNAME)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmmdmszd&theme=radical&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/YOUR_USERNAME)
 
 </div>
 
@@ -24,7 +24,7 @@ I'm a passionate **Backend Developer** specializing in **IoT device integration*
 
 </div>
 
-### 🏗️ Current Project: ZKTeco Backend API
+### 🏗️ Current Project: Attendance Service API
 
 A comprehensive backend solution for ZKTeco biometric devices with features including:
 
@@ -36,7 +36,7 @@ A comprehensive backend solution for ZKTeco biometric devices with features incl
 
 ### 📊 GitHub Activity
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical&hide_border=false)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=mhmmdmszd&theme=radical&hide_border=false)
 
 ### 🎯 Key Skills
 
@@ -50,23 +50,19 @@ A comprehensive backend solution for ZKTeco biometric devices with features incl
 
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdmszd&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
 ### 🌟 Featured Repositories
 
-- **[zkteco-backend](https://github.com/YOUR_USERNAME/zkteco-backend)** - Enterprise attendance system backend
-- **[iot-device-manager](https://github.com/YOUR_USERNAME/iot-device-manager)** - Universal IoT device management platform
-- **[flask-api-boilerplate](https://github.com/YOUR_USERNAME/flask-api-boilerplate)** - Production-ready Flask API template
+- **[zkteco-backend](https://github.com/mhmmdmszd/att-backend)** - Enterprise attendance system backend
 
 ### 📫 How to Reach Me
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammad.mszd@gmail.com)
 
 </div>
 
