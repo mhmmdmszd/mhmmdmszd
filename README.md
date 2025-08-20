@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohammad Mousazadeh - Backend Developer & IoT Specialist
+# 👋 Hi, I'm Mohammad Mousazadeh - Backend Developer
 
 <div align="center">
   
