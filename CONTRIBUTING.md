@@ -8,7 +8,7 @@ Thank you for your interest in contributing! This guide will help you get starte
 2. **Clone your fork**
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
+   git clone https://github.com/mhmmdmszd/REPO_NAME.git
    cd REPO_NAME
    ```
 

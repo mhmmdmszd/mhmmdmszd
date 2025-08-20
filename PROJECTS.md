@@ -19,7 +19,7 @@ A comprehensive backend solution for managing ZKTeco biometric devices with REST
 
 **Tech Stack:** Python, Flask, PostgreSQL, Redis, Docker
 
-**Repository:** [github.com/YOUR_USERNAME/zkteco-backend](https://github.com/YOUR_USERNAME/zkteco-backend)
+**Repository:** [github.com/mhmmdmszd/zkteco-backend](https://github.com/mhmmdmszd/zkteco-backend)
 
 ---
 
@@ -39,7 +39,7 @@ A scalable platform for managing various IoT devices with unified APIs.
 
 **Tech Stack:** Python, FastAPI, MQTT, WebSockets, InfluxDB
 
-**Repository:** [github.com/YOUR_USERNAME/iot-device-manager](https://github.com/YOUR_USERNAME/iot-device-manager)
+**Repository:** [github.com/mhmmdmszd/iot-device-manager](https://github.com/mhmmdmszd/iot-device-manager)
 
 ---
 
@@ -60,7 +60,7 @@ A battle-tested boilerplate for building scalable Flask APIs.
 
 **Tech Stack:** Python, Flask, SQLAlchemy, Alembic, Docker
 
-**Repository:** [github.com/YOUR_USERNAME/flask-api-boilerplate](https://github.com/YOUR_USERNAME/flask-api-boilerplate)
+**Repository:** [github.com/mhmmdmszd/flask-api-boilerplate](https://github.com/mhmmdmszd/flask-api-boilerplate)
 
 ---
 
@@ -118,7 +118,7 @@ A battle-tested boilerplate for building scalable Flask APIs.
 
 ## 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=radical&hide_border=false)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mhmmdmszd&theme=radical&hide_border=false)
 
 ---
 
