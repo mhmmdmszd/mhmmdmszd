@@ -86,7 +86,7 @@ Feature requests should include:
 
 - **GitHub Issues** - For bug reports and feature requests
 - **Discussions** - For questions and general help
-- **Email** - your.email@example.com for private matters
+- **Email** - mohammad.mszd@gmail.com for private matters
 
 ## 🏆 Recognition
 
