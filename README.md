@@ -70,6 +70,6 @@ A comprehensive backend solution for ZKTeco biometric devices with features incl
 
 <div align="center">
   
-⭐ **From [Your Name] with ❤️**
+⭐ **From MMD with ❤️**
 
 </div>
