@@ -56,7 +56,7 @@ A comprehensive backend solution for ZKTeco biometric devices with features incl
 
 ### 🌟 Featured Repositories
 
-- **[zkteco-backend](https://github.com/mhmmdmszd/att-backend)** - Enterprise attendance system backend
+- **[zkteco-backend](https://github.com/MARS-JSU/att-service)** - Enterprise attendance system backend
 
 ### 📫 How to Reach Me
 
